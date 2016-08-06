@@ -1,0 +1,29 @@
+_repo: The-Fern-Lover-s-CompanionA-Guide-for-the-Northeastern-States-and-Canada_11365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tilton, George Henry
+    birthdate: 1845
+    gutenberg_agent_id: '3955'
+    url: http://www.gutenberg.org/2009/agents/3955
+description: ''
+gutenberg_bookshelf:
+- Horticulture
+- Botany
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ferns -- Canada'
+- !lcc 'QK'
+- !lcsh 'Ferns -- United States'
+- GITenberg
+title: 'The Fern Lover''s Companion
+
+  A Guide for the Northeastern States and Canada'
+url: http://www.gutenberg.org/ebooks/11365
