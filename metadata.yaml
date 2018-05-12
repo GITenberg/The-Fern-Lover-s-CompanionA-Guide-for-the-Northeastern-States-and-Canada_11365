@@ -1,5 +1,8 @@
 _repo: The-Fern-Lover-s-CompanionA-Guide-for-the-Northeastern-States-and-Canada_11365
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tilton, George Henry
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3955'
     url: http://www.gutenberg.org/2009/agents/3955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11365#The-Fern-Lover-s-CompanionA-Guide-for-the-Northeastern-States-and-Canada
 gutenberg_bookshelf:
 - Horticulture
 - Botany
